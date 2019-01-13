@@ -1,7 +1,7 @@
 # d7_to_miraclp
 
 ## このスクリプトについて
-WanhaoD7 Workshopで出力したCWSファイルをMIRACLPで出力可能な物に変換するスクリプトです。
+WanhaoD7 Workshopで出力したCWSファイルをMIRACLPで出力可能な物に変換するスクリプトです。Python 3で実行してね。
 
 ##  WanhaoD7 WorkshopでのGCODE設定
 以下のような感じで設定します。  
