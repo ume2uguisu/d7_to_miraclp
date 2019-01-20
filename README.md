@@ -21,6 +21,8 @@ G161 Z F30
 G92 Z0  
 
 ■Layer  
+この例だとリフト距離とスピードが固定です。
+
 ;********** Pre-Slice Start ********  
 ;Set up any GCode here to be executed before a lift  
 ;********** Pre-Slice End **********  
